@@ -1,0 +1,14 @@
+h1 {
+	color: rgb(0,0,255);
+	font-family: Algerian;
+}
+h2 {
+	color: green;
+	font-family: Georgia;
+}
+body {
+	background: rgb(0,191,255);
+}
+nav {
+	font-family: Broadway;
+}
